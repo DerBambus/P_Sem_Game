@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":19,"description":"[placeholder]","etypeId":1,"traits":[{"code":31,"dataId":1,"value":1.0}],"iconIndex":385,"name":"Fist","note":"","params":[0,0,3,0,0,0,0,0],"price":100,"wtypeId":2},
+{"id":2,"animationId":19,"description":"[placeholder]","etypeId":1,"traits":[{"code":31,"dataId":1,"value":1.0}],"iconIndex":150,"name":"Baseball bat","note":"","params":[0,0,10,0,0,0,0,0],"price":300,"wtypeId":9},
+{"id":3,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":5,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]

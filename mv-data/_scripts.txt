@@ -1,0 +1,13 @@
+Skill 1 Angriff: Damage Formula: a.atk * 4 - b.def * 2
+Skill 3 Zwillingsattacke: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 Doppelter Angriff: Damage Formula: a.atk * 4 - b.def * 2
+Skill 5 Dreifacher Angriff: Damage Formula: a.atk * 4 - b.def * 2
+Common Event 1 Money Line 1:  - Script call: @gold_window = Window_Gold.new@gold_window.x = 0@gold_window.y
+Map 11 #<RPG::MapInfo:0xe69de90> - Event 1 EV001 (2,6) - Page 1 Line 1:  - Script call: Spielautomat.new()
+Map 11 #<RPG::MapInfo:0xe69de90> - Event 2 EV002 (3,6) - Page 1 Line 14:  - Script call: start_pslot(4, pos: 0, my: 72, spd: 8)
+Map 11 #<RPG::MapInfo:0xe69de90> - Event 2 EV002 (3,6) - Page 1 Line 15:  - Script call: p SceneManager.result
+Map 11 #<RPG::MapInfo:0xe69de90> - Event 2 EV002 (3,6) - Page 1 Line 16:  - Script call: puts SceneManager.result[0]
+Map 11 #<RPG::MapInfo:0xe69de90> - Event 2 EV002 (3,6) - Page 1 Line 17:  - Control Variables script call: SceneManager.result[0]
+Map 11 #<RPG::MapInfo:0xe69de90> - Event 2 EV002 (3,6) - Page 1 Line 42:  - Script call: start_pslot(4, pos: 0, my: 72, spd: 12)
+Map 13  - Event 2 EV002 (27,19) - Page 1 Line 5:  - Script call: Spielautomat.new()
+Map 13  - Event 4 EV004 (28,19) - Page 1 Line 5:  - Script call: Spielautomat.new()
